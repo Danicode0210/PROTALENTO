@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black ;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+.title{
+    text-align: center;
+}
+
+ul li {
+    font-size: 18px;
+    list-style: none;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+}
+
+ul li:hover{
+    background-color: lightyellow
+}
+.lavar-ropa{
+    text-decoration: line-through;
+    color: gray;
+}
+.hacer-ejercicio:active {
+    background-color:lightcyan
+}
